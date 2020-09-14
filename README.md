@@ -1,1 +1,3 @@
 # Bellybutton-Biodiversity
+## Overview of Project/Purpose
+After creating a dashboard that included only a panel for demographic information, the deliverable for this module required us to add features that includes the bacterial data for each volunteer.  Once completed, all the volunteers will be able to identify the top 10 bacterial species in their belly buttons.  If Improbable Beef identifies a species as a candidate to manufacture synthetic beef, the volunteers used in this study will be able to identify whether that species is found in their own navels.
